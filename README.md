@@ -4,7 +4,7 @@ Often while working on AI-related Projects connected to image recognition, one o
 Expected Input: 
 If the picture contains multiple people, separate images of all the individuals should be uploaded.
  For example, If my webcam takes this picture
-2.Pictures should be uploaded to S3 bucket in AWS cloud
+2.Pictures should be uploaded to S3 bucket to AWS cloud
 
 
 Expected Output: 
